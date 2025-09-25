@@ -63,7 +63,7 @@ The dataset, `uber.csv`, contains **200,000 records** of Uber trips.
 
 ## 🚀 How to Run
 
-```bash
+``bash
 git clone https://github.com/mr-akash12/uber-fare-prediction.git
 cd uber-fare-prediction
 pip install -r requirements.txt
